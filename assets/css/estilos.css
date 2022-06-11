@@ -1,6 +1,16 @@
 body {
   font-family: "Raleway", sans-serif;
 }
+/* Navbar  */
+
+.navbar{
+    background-color: #373a3c;
+}
+.navbar p{
+  font-family: 'Leckerli One', cursive;
+  font-size: 30px;
+  margin-bottom: 0px;
+}
 
 /* Hero Section */
 
@@ -33,6 +43,7 @@ body {
   }
 
   .navbar-brand{
+    
     width: 100px;
   }
 
