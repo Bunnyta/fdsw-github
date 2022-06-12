@@ -15,10 +15,15 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: url("../img/bg-hero1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
+  background-position: top;
+}
+.Trabajos{
+  border-color: #dc3545;
+  border-width: 2px;
 }
 
 /* Mis trabajos */
