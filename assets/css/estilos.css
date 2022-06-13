@@ -48,6 +48,15 @@ body {
   color: #373a3c;
 }
 
+/* Footer */
+.footer{
+  background-color: #373a3c;
+}
+.footer span{
+  font-family: 'Leckerli One', cursive;
+  font-size: 20px;
+}
+
 @media (max-width: 768px) {
   #Contacto form label {
     font-weight: 400;
