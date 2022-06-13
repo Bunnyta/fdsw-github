@@ -25,14 +25,20 @@ body {
   border-color: #dc3545;
   border-width: 2px;
 }
-
+.Contacto{
+  color:whitesmoke;
+  border-width: 5px;
+}
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
-  height: 250px;
+  height: 300px;
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center;
+  background-position: top;
+}
+.mis_trabajos{
+  background-color: #dc3545;
 }
 
 /* Contacto */
